@@ -1,0 +1,17 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('baselibrary-release.aar'))
+
+/*
+println("妈妈"+getProject().getName())
+apply plugin: 'com.android.library'
+android{
+    compileSdkVersion 26
+    buildToolsVersion "26.0.0"
+    defaultConfig {
+        minSdkVersion 18
+        targetSdkVersion 26
+    }
+}
+dependencies {
+    compile 'com.jph.takephoto:takephoto_library:4.0.3'
+}*/

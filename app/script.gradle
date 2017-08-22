@@ -1,0 +1,14 @@
+try{
+    DependencyHandler dependencyHandler = getDependencies()
+    Dependency dependency = dependencyHandler.create('com.jph.takephoto:takephoto_library:4.0.3')
+    dependencyHandler.add('compile',dependency)
+}catch (Exception e) {
+    e.printStackTrace()
+}
+
+
+getRepositories().flatDir('dirs':'libs')
+fileTree(dir: 'libs', include: '**/*.aar')
+        .each { File file ->
+    dependencies.add("compile", [name: file.name.lastIndexOf('.').with { it != -1 ? file.name[0..<it] : file.name }, ext: 'aar'])
+}

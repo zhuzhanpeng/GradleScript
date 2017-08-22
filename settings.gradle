@@ -1,0 +1,1 @@
+include ':baselibrary', ':app', ':testaar'/*, ':baselibrary-release'*/

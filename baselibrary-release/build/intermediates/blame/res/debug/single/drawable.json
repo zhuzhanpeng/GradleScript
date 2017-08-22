@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "D:\\projectsrc\\baselibrary\\baselibrary-release\\build\\intermediates\\res\\merged\\debug\\drawable\\crop__selectable_background.xml",
+        "source": "C:\\Users\\Edison\\.android\\build-cache\\241d970928e06dd891e4c900041f4a1f862e9357\\output\\res\\drawable\\crop__selectable_background.xml"
+    },
+    {
+        "merged": "D:\\projectsrc\\baselibrary\\baselibrary-release\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Edison\\.android\\build-cache\\e413f63469726afa49b0f430ab0e7b1bfa4d5ac7\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\projectsrc\\baselibrary\\baselibrary-release\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Edison\\.android\\build-cache\\e413f63469726afa49b0f430ab0e7b1bfa4d5ac7\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\projectsrc\\baselibrary\\baselibrary-release\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Edison\\.android\\build-cache\\e413f63469726afa49b0f430ab0e7b1bfa4d5ac7\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\projectsrc\\baselibrary\\baselibrary-release\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Edison\\.android\\build-cache\\e413f63469726afa49b0f430ab0e7b1bfa4d5ac7\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\projectsrc\\baselibrary\\baselibrary-release\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Edison\\.android\\build-cache\\e413f63469726afa49b0f430ab0e7b1bfa4d5ac7\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\projectsrc\\baselibrary\\baselibrary-release\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Edison\\.android\\build-cache\\e413f63469726afa49b0f430ab0e7b1bfa4d5ac7\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\projectsrc\\baselibrary\\baselibrary-release\\build\\intermediates\\res\\merged\\debug\\drawable\\image_placeholder.xml",
+        "source": "C:\\Users\\Edison\\.android\\build-cache\\6b89c6221c0755c6398b5f01bfc738c0850e7bdc\\output\\res\\drawable\\image_placeholder.xml"
+    },
+    {
+        "merged": "D:\\projectsrc\\baselibrary\\baselibrary-release\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Edison\\.android\\build-cache\\e413f63469726afa49b0f430ab0e7b1bfa4d5ac7\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\projectsrc\\baselibrary\\baselibrary-release\\build\\intermediates\\res\\merged\\debug\\drawable\\crop__texture.xml",
+        "source": "C:\\Users\\Edison\\.android\\build-cache\\241d970928e06dd891e4c900041f4a1f862e9357\\output\\res\\drawable\\crop__texture.xml"
+    },
+    {
+        "merged": "D:\\projectsrc\\baselibrary\\baselibrary-release\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Edison\\.android\\build-cache\\e413f63469726afa49b0f430ab0e7b1bfa4d5ac7\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\projectsrc\\baselibrary\\baselibrary-release\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Edison\\.android\\build-cache\\e413f63469726afa49b0f430ab0e7b1bfa4d5ac7\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\projectsrc\\baselibrary\\baselibrary-release\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Edison\\.android\\build-cache\\e413f63469726afa49b0f430ab0e7b1bfa4d5ac7\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\projectsrc\\baselibrary\\baselibrary-release\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Edison\\.android\\build-cache\\e413f63469726afa49b0f430ab0e7b1bfa4d5ac7\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\projectsrc\\baselibrary\\baselibrary-release\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Edison\\.android\\build-cache\\e413f63469726afa49b0f430ab0e7b1bfa4d5ac7\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\projectsrc\\baselibrary\\baselibrary-release\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Edison\\.android\\build-cache\\e413f63469726afa49b0f430ab0e7b1bfa4d5ac7\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\projectsrc\\baselibrary\\baselibrary-release\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Edison\\.android\\build-cache\\e413f63469726afa49b0f430ab0e7b1bfa4d5ac7\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\projectsrc\\baselibrary\\baselibrary-release\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Edison\\.android\\build-cache\\e413f63469726afa49b0f430ab0e7b1bfa4d5ac7\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\projectsrc\\baselibrary\\baselibrary-release\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Edison\\.android\\build-cache\\e413f63469726afa49b0f430ab0e7b1bfa4d5ac7\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\projectsrc\\baselibrary\\baselibrary-release\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Edison\\.android\\build-cache\\e413f63469726afa49b0f430ab0e7b1bfa4d5ac7\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\projectsrc\\baselibrary\\baselibrary-release\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Edison\\.android\\build-cache\\e413f63469726afa49b0f430ab0e7b1bfa4d5ac7\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\projectsrc\\baselibrary\\baselibrary-release\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Edison\\.android\\build-cache\\e413f63469726afa49b0f430ab0e7b1bfa4d5ac7\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\projectsrc\\baselibrary\\baselibrary-release\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Edison\\.android\\build-cache\\e413f63469726afa49b0f430ab0e7b1bfa4d5ac7\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\projectsrc\\baselibrary\\baselibrary-release\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Edison\\.android\\build-cache\\e413f63469726afa49b0f430ab0e7b1bfa4d5ac7\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\projectsrc\\baselibrary\\baselibrary-release\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Edison\\.android\\build-cache\\e413f63469726afa49b0f430ab0e7b1bfa4d5ac7\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\projectsrc\\baselibrary\\baselibrary-release\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Edison\\.android\\build-cache\\e413f63469726afa49b0f430ab0e7b1bfa4d5ac7\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\projectsrc\\baselibrary\\baselibrary-release\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Edison\\.android\\build-cache\\e413f63469726afa49b0f430ab0e7b1bfa4d5ac7\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    }
+]
